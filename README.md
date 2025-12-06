@@ -42,21 +42,6 @@ When I’m not coding, you’ll probably find me creating **YouTube videos** or 
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=piyush-baniya&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-baniya&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyush-baniya&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ### 👀 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=piyush-baniya&label=Visitors&color=blue&style=flat" />
