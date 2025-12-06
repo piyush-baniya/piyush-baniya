@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=3EB9FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Piyush+Baniya+👋;FullStack+Developer+%26+MERN+Stack+Learner;From+Nepal+🇳🇵;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=e81f00&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Piyush+Baniya+👋;FullStack+Developer+%26+MERN+Stack+Learner;From+Nepal+🇳🇵;" />
 </p>
 
 ---
