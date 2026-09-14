@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=8B3DFF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Piyush+Baniya+👋;Flutter+Developer+%26+Builder;Building+VoraTube+🎵+%26+VoraFind+🔎;From+Nepal+🇳🇵" /> </p>
 
-<p align="center"> <b>Developer • Flutter • Mobile Apps • UI/UX • Open Source</b> </p>
+<p align="center"> <b>Developer • Flutter • Mobile Apps • Full Stack Web </b> </p>
 
 👋 About Me
 
@@ -19,7 +19,7 @@ When I'm not coding, I create gaming and tech content on YouTube and experiment 
 🚀 What I'm Building <br>
 🎵 VoraTube
 
-A modern local music player for Android & iOS built with Flutter.
+A modern local music player for Android built with Flutter.
 
 VoraTube focuses on playing music that is already stored on the user's device, with a smooth, modern dark/AMOLED interface and features designed around a fast and enjoyable listening experience.
 
