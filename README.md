@@ -16,7 +16,7 @@ I'm especially interested in building products from the ground up — from the i
 
 When I'm not coding, I create gaming and tech content on YouTube and experiment with new ideas.
 
-🚀 What I'm Building
+🚀 What I'm Building <br>
 🎵 VoraTube
 
 A modern local music player for Android & iOS built with Flutter.
@@ -25,7 +25,7 @@ VoraTube focuses on playing music that is already stored on the user's device, w
 
 Tech: Flutter • Dart • Riverpod • Drift • just_audio • audio_service
 
-<a href="https://voratube.vercel.app/" target="_blank">🔗 View VoraTube →</a>
+<a href="https://voratube.vercel.app/" target="_blank" style="text-decoration: None">🔗 View VoraTube →</a>
 
 🛠️ Tech Stack
 📱 Mobile Development
@@ -44,20 +44,20 @@ Tech: Flutter • Dart • Riverpod • Drift • just_audio • audio_service
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel,figma,photoshop" /> </p>
 
-🧠 Currently Exploring
-🚀 Advanced Flutter development
-🏗️ Clean & scalable application architecture
-📱 Native Android integration with Flutter
-🗃️ Local databases & offline-first applications
-🧠 On-device AI & semantic search
-⚡ Performance optimization
-🎨 Modern UI/UX and animations
-🔐 Privacy-focused application design
-📦 App deployment & Play Store development
-📂 Featured Projects
-Project	Description	Focus
-🎵 VoraTube	Local music player for Android & iOS	Flutter • Audio • Mobile
-🎯 My Development Philosophy
+🧠 Currently Exploring <br>
+🚀 Advanced Flutter development <br>
+🏗️ Clean & scalable application architecture <br>
+📱 Native Android integration with Flutter <br>
+🗃️ Local databases & offline-first applications <br>
+🧠 On-device AI & semantic search <br>
+⚡ Performance optimization <br>
+🎨 Modern UI/UX and animations <br>
+🔐 Privacy-focused application design <br>
+📦 App deployment & Play Store development <br>
+📂 Featured Projects <br>
+Project	Description	Focus <br>
+🎵 VoraTube	Local music player for Android & iOS	Flutter • Audio • Mobile <br>
+🎯 My Development Philosophy 
 
 Build things that are useful, fast, private, and enjoyable to use.
 
@@ -71,7 +71,7 @@ Idea → Architecture → UI/UX → Development → Testing → Performance → 
 
 Outside development, I create gaming and tech-related content on YouTube.
 
-<p align="left"> <a href="https://www.youtube.com/c/the_pts" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube" width="42" /> </a> </p>
+<p align="left"> <a href="https://www.youtube.com/@Piyush_Baniya" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube" width="42" /> </a> </p>
 
 🔗 Connect With Me
 
@@ -81,8 +81,7 @@ Outside development, I create gaming and tech-related content on YouTube.
 
 🌐 GitHub: github.com/piyush-baniya
 
-👀 Profile Views: <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-baniya&label=Visitors&color=blue&style=flat" /> </p>
-
+👀 Profile Views →
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-baniya&label=Visitors&color=8B3DFF&style=flat" /> </p>
 
 <p align="center"> <i>Building ideas into products, one commit at a time. 🚀</i> </p>
