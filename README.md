@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=8B3DFF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Piyush+Baniya+👋;Flutter+Developer+%26+Builder;Building+VoraTube+🎵+%26+VoraFind+🔎;From+Nepal+🇳🇵" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=8B3DFF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Piyush+Baniya+👋;Flutter+Developer+%26+Builder;Building+VoraTube+🎵;From+Nepal+🇳🇵" /> </p>
 
 <p align="center"> <b>Developer • Flutter • Mobile Apps • Full Stack Web </b> </p>
 
