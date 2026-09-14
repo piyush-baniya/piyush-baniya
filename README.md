@@ -54,7 +54,7 @@ Tech: Flutter • Dart • Riverpod • Drift • just_audio • audio_service
 🎨 Modern UI/UX and animations <br>
 🔐 Privacy-focused application design <br>
 📦 App deployment & Play Store development <br>
-📂 Featured Projects <br>
+📂 Featured Projects <br> <br>
 Project	Description	Focus <br>
 🎵 VoraTube	Local music player for Android & iOS	Flutter • Audio • Mobile <br>
 🎯 My Development Philosophy 
@@ -71,11 +71,9 @@ Idea → Architecture → UI/UX → Development → Testing → Performance → 
 
 Outside development, I create gaming and tech-related content on YouTube.
 
-<p align="left"> <a href="https://www.youtube.com/@Piyush_Baniya" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube" width="42" /> </a> </p>
-
 🔗 Connect With Me
 
-<p align="left"> <a href="https://linkedin.com/in/piyush-das-baniya" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="42" /> </a> <a href="https://instagram.com/piyush_baniya1" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" width="42" /> </a> <a href="https://www.youtube.com/@Piyush_Baniya" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube" width="42" /> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/piyush-das-baniya" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="42" /> </a> <a href="https://instagram.com/piyush_baniya1" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" width="42" /> </a>
 
 📧 Email: baniyapiyush0810@gmail.com
 
