@@ -75,7 +75,7 @@ Outside development, I create gaming and tech-related content on YouTube.
 
 <p align="left"> <a href="https://linkedin.com/in/piyush-das-baniya" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="42" /> </a> <a href="https://instagram.com/piyush_baniya1" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" width="42" /> </a>
 
-📧 Email: baniyapiyush0810@gmail.com
+📧 Email: baniyapiyushwork@gmail.com
 
 🌐 GitHub: github.com/piyush-baniya
 
