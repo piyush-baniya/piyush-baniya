@@ -161,8 +161,6 @@ Under the hood: Flutter · Dart · Riverpod · Drift · just_audio · audio_serv
   <a href="https://piyushdas.com.np/"><img src="https://img.shields.io/badge/Website-151C35?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=BA98FF" alt="Personal website" /></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=piyush-baniya&amp;label=Profile%20visitors&amp;color=8B3DFF&amp;style=for-the-badge" alt="GitHub profile visitor counter" /></p>
-
 <div align="center">
   <img src="./assets/footer.svg" width="100%" alt="Build things that matter: one idea, one commit, one shipped product at a time" />
 </div>
